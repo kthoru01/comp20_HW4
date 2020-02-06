@@ -48,13 +48,7 @@
        <name>From the Ground Up</name> 
        <artist><logo>Artist:</logo> Dan and Shay</artist> 
        <genre><logo>Genre:</logo> Country</genre> 
-       <year_released><logo>Release Year:</logo> 2016</year_released> </song>
-
-    <song> 
-       <name>Quite Miss Home</name> 
-       <artist><logo>Artist:</logo> James Arthur</artist> 
-       <genre><logo>Genre:</logo> Pop</genre> 
-       <year_released><logo>Release Year:</logo> 2019</year_released> </song> 
+       <year_released><logo>Release Year:</logo> 2016</year_released> </song> 
 
     <song> 
        <name>In Case You Didn't Know</name> 
