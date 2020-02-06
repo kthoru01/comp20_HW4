@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="format.css"?>
+
+<cover_band_list>
+   <song> 
+       <name>Say You Won't Let Go</name> 
+       <artist><logo>Artist:</logo> James Arthur</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2016</year_released> </song> 
+
+    <song> 
+       <name>Falling Like the Stars</name> 
+       <artist><logo>Artist:</logo> James Arthur</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2019</year_released> </song> 
+
+    <song> 
+       <name>Quite Miss Home</name> 
+       <artist><logo>Artist:</logo> James Arthur</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2019</year_released> </song> 
+
+    <song> 
+       <name>Perfect</name> 
+       <artist><logo>Artist:</logo> Ed Sheeran</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2017</year_released> </song>
+
+    <song> 
+       <name>Thinking Out Loud </name> 
+       <artist><logo>Artist:</logo> Ed Sheeran</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2014</year_released> </song>
+
+    <song> 
+       <name>Photograph</name> 
+       <artist><logo>Artist:</logo> Ed Sheeran</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2014</year_released> </song>
+
+    <song> 
+       <name>Speechless</name> 
+       <artist><logo>Artist:</logo> Dan and Shay</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2018</year_released> </song> 
+
+    <song> 
+       <name>From the Ground Up</name> 
+       <artist><logo>Artist:</logo> Dan and Shay</artist> 
+       <genre><logo>Genre:</logo> Country</genre> 
+       <year_released><logo>Release Year:</logo> 2016</year_released> </song>
+
+    <song> 
+       <name>Quite Miss Home</name> 
+       <artist><logo>Artist:</logo> James Arthur</artist> 
+       <genre><logo>Genre:</logo> Pop</genre> 
+       <year_released><logo>Release Year:</logo> 2019</year_released> </song> 
+
+    <song> 
+       <name>In Case You Didn't Know</name> 
+       <artist><logo>Artist:</logo> Brett Young</artist> 
+       <genre><logo>Genre:</logo> Country</genre> 
+       <year_released><logo>Release Year:</logo> 2017</year_released> </song>
+
+    <song> 
+       <name>Tennessee Whiskey</name> 
+       <artist><logo>Artist:</logo> Chris Stapleton</artist> 
+       <genre><logo>Genre:</logo> Country</genre> 
+       <year_released><logo>Release Year:</logo> 2015</year_released> </song>
+       
+</cover_band_list>

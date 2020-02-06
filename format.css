@@ -1,0 +1,45 @@
+cover_band_list {
+	background-color: #E4DED1;
+	display: block;
+	padding: 5pt;
+	font-family: "Times New Roman";
+	box-sizing: border-box;
+}
+
+song {
+	display: block;
+	text-align: center;
+	box-sizing: border-box;
+	border-bottom: 1pt solid #A78978;
+	padding-top: 1pt 0;
+	padding-bottom: 8pt;
+	margin-bottom: 7pt;
+}
+
+song:last-child {
+	border-bottom: none;
+	margin-bottom: none;
+	padding-bottom: none;
+}
+
+name {
+	display: block;
+	font-weight: bold;
+}
+
+artist {
+	display: block;
+}
+
+genre {
+	display: block;
+}
+
+year_released {
+	display: block;
+}
+
+logo {
+	font-style: italic;
+}
+
